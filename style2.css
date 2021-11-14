@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+#banner_content{
+    background: beige;
+    opacity: 94%;
+    border-radius: 23px;
+}
+
+.button:hover{
+    background-image: linear-gradient(rgb(149 0 0), rgb(255, 0, 0) );
+}
